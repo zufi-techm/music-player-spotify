@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/music-player-spotify/static/css/main.9c3ca040.css",
+    "main.js": "/music-player-spotify/static/js/main.2d98165d.js",
+    "static/js/787.ded37e57.chunk.js": "/music-player-spotify/static/js/787.ded37e57.chunk.js",
+    "static/media/yt1s.com - Polo G  I Know Lyrics.mp3": "/music-player-spotify/static/media/yt1s.com - Polo G  I Know Lyrics.ca06856976c4779855bb.mp3",
+    "static/media/image1.png": "/music-player-spotify/static/media/image1.1a1a8745a8e95f5dd761.png",
+    "index.html": "/music-player-spotify/index.html",
+    "main.9c3ca040.css.map": "/music-player-spotify/static/css/main.9c3ca040.css.map",
+    "main.2d98165d.js.map": "/music-player-spotify/static/js/main.2d98165d.js.map",
+    "787.ded37e57.chunk.js.map": "/music-player-spotify/static/js/787.ded37e57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c3ca040.css",
+    "static/js/main.2d98165d.js"
+  ]
+}
